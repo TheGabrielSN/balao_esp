@@ -1,9 +1,9 @@
 | Modelos suportados | ESP32 |
 | ------------------ | ----- |
 
-###### _Projeto Balão [ESP32]_
+# _Projeto Balão [ESP32]_
 
-Programa para **ESP32 wroom.**
+Programa para **ESP32 wroom** utilizando a plataforma ESP-IDF.
 
 ![img](https://github.com/TheGabrielSN/balao_esp/blob/main/imagens/Diagrama%20-%20ESP.png)
 
