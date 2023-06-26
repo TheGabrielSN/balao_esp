@@ -75,7 +75,7 @@ Os arquivos do projeto estão distribuídos no esquema abaixo
 Caso adicionado algum arquivo a ser compilado junto do programa, é necessário atualizar o arquivo [CMakeLists.txt](./main/CMakeLists.txt) na pasta main.
 
 ## Autores
-[Eduardo dos Reis Souza]()
+[Eduardo dos Reis Souza](https://github.com/EduardoReisss)
 
 [Gabriel da Silva Nascimento](https://github.com/TheGabrielSN)
 
