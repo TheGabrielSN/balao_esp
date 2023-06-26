@@ -18,5 +18,6 @@
     "files.associations": {
         "sstream": "c",
         "regex": "c"
-    }
+    },
+    "python.analysis.typeCheckingMode": "off"
 }
