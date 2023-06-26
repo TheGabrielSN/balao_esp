@@ -5,7 +5,7 @@
 
 Programa para **ESP32 wroom.**
 
-![img](./imagens/Diagrama - ESP.png)
+![img](https://github.com/TheGabrielSN/balao_esp/blob/main/imagens/Diagrama%20-%20ESP.png)
 
 O Código realiza a função de controlar os efeitos a serem apresentados nos LEDs. Sua função é receber pacotes de informações do servidor MQTT referente ao efeito a ser aplicado, além disso, o mesmo fornece informações sobre a situação atual do ESP (nível de sínal, efeito atual e nível de bateria).
 
@@ -16,7 +16,7 @@ Sua execução é feita em dois níveis o **controle da fita de LEDs** e a **con
 A execução de forma paralela, onde o ESP32 utiliza um núcleo para gerenciamento da comunicação com o servidor MQTT enquanto o segundo núcleo realiza a execução dos efeitos.
 
 
-![img](./imagens/Diagrama de fluxo - ESP.png)
+![img](https://github.com/TheGabrielSN/balao_esp/blob/main/imagens/Diagrama%20de%20fluxo%20-%20ESP.png)
 
 ### Fita de LED
 
@@ -73,3 +73,12 @@ Os arquivos do projeto estão distribuídos no esquema abaixo
 ```
 
 Caso adicionado algum arquivo a ser compilado junto do programa, é necessário atualizar o arquivo [CMakeLists.txt](./main/CMakeLists.txt) na pasta main.
+
+## Autores
+[Eduardo dos Reis Souza]()
+
+[Gabriel da Silva Nascimento](https://github.com/TheGabrielSN)
+
+[Jhonatan Guilherme Oliveira Pereira](https://github.com/jhonatangopereira)
+
+[Lílian Honorio Teixeira](https://github.com/lilianhteixeira)
